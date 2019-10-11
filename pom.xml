@@ -108,6 +108,14 @@
       <artifactId>spring-boot-devtools</artifactId>
       <optional>true</optional>
     </dependency>
+
+    <!-- OpenTracing Java SpecialAgent -->
+<!--    <dependency>-->
+<!--      <groupId>io.opentracing.contrib.specialagent</groupId>-->
+<!--      <artifactId>opentracing-specialagent</artifactId>-->
+<!--      <version>1.4.1</version>-->
+<!--    </dependency>-->
+
   </dependencies>
 
   <build>
